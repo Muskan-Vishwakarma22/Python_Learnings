@@ -72,5 +72,7 @@ print(a[1:15:2])
 #OUTPUT
 #iiedryh
 
-print(a[0:10:0]) #ValueError: slice step cannot be zero
-print
+# print(a[0:10:0]) #ValueError: slice step cannot be zero
+print(a[5:0:2])
+
+#BOTH _-ve
