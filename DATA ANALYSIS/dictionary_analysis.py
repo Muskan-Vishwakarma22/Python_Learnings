@@ -34,5 +34,3 @@ print(len(c))
 print(c.items())
 print(c.popitem()) # removes and returns the last inserted key-value pair as a tuple
 
-#WAP tp scan n values in range 0 to 3 and print the number of times each value has occured 
-#CREATE a tuple to store n numberic values and find average of all values
